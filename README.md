@@ -1,3 +1,3 @@
 # CRUD-Application
-Creating CRUD application using mern-stack
+ Created using Mern-stack and BootStrap for learning DATABASE management.
 (User management system)
